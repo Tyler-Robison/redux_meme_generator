@@ -1,0 +1,23 @@
+.meme-img {
+    height: 250px;
+    width: 250px;
+}
+
+.indiv-meme {
+    position: relative;
+    color: white;
+    height: 250px;
+}
+
+.img-top-text {
+    position: absolute;
+    bottom: 0.5rem;
+    left: 6rem;
+}
+
+.img-bottom-text {
+    position: absolute;
+    top: 0.5rem;
+    left: 6rem;
+}
+

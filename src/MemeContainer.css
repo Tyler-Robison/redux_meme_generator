@@ -1,0 +1,8 @@
+.meme-container {
+    background-color: rgb(119, 119, 250);
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
